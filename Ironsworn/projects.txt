@@ -1,0 +1,4 @@
+                                PROJECTS
+- The Oracles
+- Launch action dices (2 D10 and 1 D6). If D6 is below both D10: Fail, between both: little fail, greater then both: win
+- 
